@@ -19,4 +19,5 @@
 # Ans8. Type-casting is when we want to certain variable to be interpreted in different form
 # for eg. typecast float a variable into int -> a=int(a)
 
-# Ans9. 
+# Ans9. Yes, more no. of inputs can be taken using input() function along with different inbuilt functions such as split(), map()
+
